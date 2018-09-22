@@ -573,3 +573,13 @@ core:
     members: 註冊會員
     mod: 版主
     mods: 版主
+
+  link:
+    home: 首頁
+    presales: 預售
+    features: 特性
+    team: 團隊
+    faq: 常見問題
+    whitepaper: 白皮書
+    blog: 博客
+    community: 社群
